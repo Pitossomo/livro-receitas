@@ -4,7 +4,13 @@ _Por Chef Pitossomo_
 
 Olá! Bem vindo ao meu livro de receitas :wave:
 
-- Strogonoff de Frango
+## Receitas disponíveis
 
+- Strogonoff de frango
 
+## Próximas receitas
+
+- Batata rosti
+- Panelinha goiana
+- Filé de tilápia empanado
 
