@@ -14,4 +14,5 @@ Olá! Bem vindo ao meu livro de receitas :wave:
 - Panelinha goiana
 - Filé de tilápia empanado
 - Gelatina
+- Patê de atum
 
